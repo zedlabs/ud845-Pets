@@ -56,7 +56,7 @@ public class EditorActivity extends AppCompatActivity {
      * {@link PetEntry#GENDER_FEMALE}.
      */
     private int mGender = PetEntry.GENDER_UNKNOWN;
-
+//no use
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
